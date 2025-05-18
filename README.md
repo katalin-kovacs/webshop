@@ -18,5 +18,5 @@ This is an Angular 18 training project, with the aim of exploring the new featur
 - State management with signals and NgRx store (e.g., cart, product list, filters)
 - Material 3 theming API, light/dark mode, design tokens
 - Accessibility: color contrast, ARIA attributes, keyboard navigation, proper heading hierarchy
-- Jest unit tests, Material Testing Harness, signal mocks
+- Karma/Jasmine unit tests, Material Testing Harness, signal mocks
 - Express.js backend
